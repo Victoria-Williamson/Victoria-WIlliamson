@@ -10,7 +10,7 @@ My name is Victoria, and I am currently a Junior at The University of Central Fl
  -->
 ### 📱 Socials
 - https://victoriawilliamson.com/
-- www.linkedin.com/in/victoria-n-williamson
+- www.linkedin.com/in/victoria-nw
 
 <!--
 **Victoria-Williamson/Victoria-WIlliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
